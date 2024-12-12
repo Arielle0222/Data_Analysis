@@ -1,42 +1,46 @@
 # Data Analysis Repository
 
-Welcome to the **Data Analysis Repository**, which showcases projects exploring environmental data and their implications for sustainable mobility. This repository highlights the intersection of data analysis and smart mobility, focusing on correlations between electric vehicle (EV) adoption rates and PM2.5 air pollution levels.
+Welcome to the **Data Analysis Repository**, which showcases the application of data analysis techniques relevant to autonomous driving and smart mobility engineering. As part of my journey to become an Autonomous Driving and Smart Mobility Engineer, I have explored and developed data analysis skills in this domain. While Python is my primary tool, I am also proficient in SQL for managing and querying large datasets.
 
 ---
 
 ## 📂 Repository Structure
 
 ```
-├── data/                     # Raw and processed datasets
-├── notebooks/                # Jupyter notebooks for data analysis
-├── scripts/                  # Python scripts for data preprocessing and visualization
-├── results/                  # Visualizations and final results
-├── README.md                 # Documentation (this file)
+├── Project1_Name/                   # Data Analysis Project 1
+│   ├── Data/                        # Raw datasets
+│   ├── Output_Data_Analysis/        # Analysis results
+│   │   ├── Jupyter_Notebook/        # Jupyter notebooks for data analysis
+│   └── Output_Paper/                # Result Reports and Documentation (.pdf)
+│                
+├── Project2_Name/                   # Data Analysis Project 2
+│
+├── README.md                        # Documentation (this file)
 ```
 
 ---
 
-## 📊 Project Overview
+## 📊 Latest Data Analysis Project
 
-### 1. **Correlation Between Regional EV Adoption Rates and PM2.5 Levels**
-- **Objective**: Investigate the relationship between regional EV ownership and air quality (PM2.5) to evaluate the environmental impact of EV adoption.
+### **Analysis of EV Adoption Rates and Air Quality (PM2.5)**
+- **Objective**: Explore the relationship between regional EV adoption rates and PM2.5 levels to understand the impact of EVs on air quality.
 - **Dataset**: Monthly regional air pollution data (PM2.5, PM10, etc.) and EV ownership statistics for 2023.
-- **Methods**:
-  - Data preprocessing: Managing missing values, detecting, and removing outliers using statistical techniques.
-  - Correlation analysis: Leveraging Pearson and Spearman methods to identify significant trends.
-  - Visualization: Creating interactive heatmaps and scatter plots for regional insights.
-- **Highlights**:
-  - Successfully cleaned and integrated data into a unified dataset.
-  - Developed interactive visualizations to communicate findings effectively.
-
-### 2. **Application to Autonomous Driving and Smart Mobility**
-- **Relevance**: The findings provide a foundation for developing data-driven strategies in autonomous driving and mobility services.
-- **Extension**:
-  - The analysis can be extended to explore how air quality data and EV adoption influence traffic patterns, route optimization, and energy efficiency in autonomous systems.
-  - Insights into urban pollution levels can guide real-time decision-making in smart mobility applications.
+- **Key Methods**:
+  - **Data Preprocessing**: Handling missing values, removing outliers, and unifying datasets.
+  - **Analysis**: Using Pearson and Spearman correlation to identify trends.
+  - **Visualization**: Interactive heatmaps and scatter plots for regional insights.
+- 📈 **Key Results**:
+  - **Scatter Plot**: Demonstrates the relationship between EV ownership ratio and PM2.5 levels.
+  - **Heatmap**: Interactive visualization showcasing regional variations in pollution and EV adoption.
+- 🌐 **Future Directions**
+  - Integrating real-time air quality monitoring data with autonomous vehicle route planning.
+  - Exploring traffic optimization models using environmental and mobility data.
+  - Extending analysis to predict future trends in sustainable urban mobility.
 
 ---
+## 📋 Other Data Analysis Projects
 
+---
 ## 🛠️ Tools and Technologies
 
 - **Programming Language**: Python
@@ -71,27 +75,7 @@ Welcome to the **Data Analysis Repository**, which showcases projects exploring 
   ```bash
   python scripts/<script_name>.py
   ```
-
 ---
-
-## 📈 Key Results
-
-- **Scatter Plot**: Demonstrates the relationship between EV ownership ratio and PM2.5 levels.
-- **Heatmap**: Interactive visualization showcasing regional variations in pollution and EV adoption.
-- **Regional Insights**:
-  - Areas with higher EV adoption often exhibit improved air quality.
-  - Highlighted urban and industrial patterns impacting PM2.5 levels.
-
----
-
-## 🌐 Future Directions
-
-- Integrating real-time air quality monitoring data with autonomous vehicle route planning.
-- Exploring traffic optimization models using environmental and mobility data.
-- Extending analysis to predict future trends in sustainable urban mobility.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests.
@@ -101,4 +85,4 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 ## 📧 Contact
 
 - **GitHub**: [Arielle0222](https://github.com/Arielle0222)
-- **Email**: your_email@example.com
+- **Email**: seohee70428@gmail.com
