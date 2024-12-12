@@ -1,6 +1,10 @@
-# Data Analysis Repository
+# 👩‍🔧 Hi There!
+Welcome to the **Data Analysis** Repository, where you can explore projects applying data analysis techniques essential for **autonomous driving and smart mobility engineering.**
 
-Welcome to the **Data Analysis Repository**, which showcases the application of data analysis techniques relevant to autonomous driving and smart mobility engineering. As part of my journey to become an Autonomous Driving and Smart Mobility Engineer, I have explored and developed data analysis skills in this domain. While Python is my primary tool, I am also proficient in SQL for managing and querying large datasets.
+As part of my journey to become an Autonomous Driving and Smart Mobility Engineer, I have been exploring and developing data analysis skills in this field. Python is my primary tool, and I also plan to conduct data analysis using SQL soon.
+
+
+
 
 ---
 
